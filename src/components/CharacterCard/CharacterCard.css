@@ -1,0 +1,18 @@
+.card {
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 30px;
+    background: rgb(184, 182, 182);
+    box-shadow: 0 3px 6px rgb(80, 91, 102), 0 3px 6px rgb(80, 91, 102);
+}
+
+.card>.img-container {
+    text-align: center;
+    background: black;
+}
+
+.card>.img-container>img {
+    height: 100%;
+    width: 75%;
+}

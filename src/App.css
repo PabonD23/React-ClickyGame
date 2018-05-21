@@ -1,0 +1,13 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.scoreSum {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
